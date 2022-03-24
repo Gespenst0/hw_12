@@ -1,0 +1,154 @@
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 13:56:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 13:56:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 13:56:07] "GET /GET/post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 13:56:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 13:56:12] "POST /POST/post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 13:56:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 13:56:12] "GET /static/local/IdCXpP-7Ock.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 13:56:15] "GET /GET/post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 13:56:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 13:56:22] "POST /POST/post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 13:56:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 13:56:22] "GET /static/local/IdCXpP-7Ock.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 13:56:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 13:56:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 13:56:25] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 13:56:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 13:56:25] "[33mGET /static/local/скрин%20стола%20с%20прогами.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 13:56:25] "[36mGET /static/local/IdCXpP-7Ock.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 13:56:25] "[36mGET /static/local/fsdfsdf.jfif HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:02:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:02:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:02:05] "GET /GET/post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:02:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:02:10] "POST /POST/post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:02:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:02:10] "GET /static/local/IdCXpP-7Ock.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:02:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:02:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:02:13] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:02:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:02:13] "[36mGET /static/local/IdCXpP-7Ock.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:02:13] "[33mGET /static/local/скрин%20стола%20с%20прогами.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:02:13] "[36mGET /static/local/fsdfsdf.jfif HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:02:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:02:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:02:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:02:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:02:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:02:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:02:52] "GET /GET/post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:02:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+ERROR:app:Exception on /POST/post [POST]
+Traceback (most recent call last):
+  File "C:\Users\timin\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\timin\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\timin\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\timin\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\timin\Desktop\hw12\loader\views.py", line 60, in page_upload
+    save_post_info(post_info)
+  File "C:\Users\timin\Desktop\hw12\loader\views.py", line 29, in save_post_info
+    all_posts = load_info_from_json()
+  File "C:\Users\timin\Desktop\hw12\loader\views.py", line 17, in load_info_from_json
+    with open("posts.json", "r") as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'posts.json'
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:02:57] "[35m[1mPOST /POST/post HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:03:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:03:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+ERROR:app:Exception on /search [GET]
+Traceback (most recent call last):
+  File "C:\Users\timin\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\timin\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\timin\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\timin\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\timin\Desktop\hw12\main\views.py", line 31, in searching_page
+    info = searching(search_word)
+  File "C:\Users\timin\Desktop\hw12\main\views.py", line 15, in searching
+    all_posts = load_info_from_json()
+  File "C:\Users\timin\Desktop\hw12\main\views.py", line 8, in load_info_from_json
+    with open("posts.json", "r") as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'posts.json'
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:03:01] "[35m[1mGET /search?s= HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:13:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:13:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:13:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:13:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:13:28] "GET /GET/post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:13:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:13:39] "POST /POST/post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:13:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:13:39] "GET /static/local/IdCXpP-7Ock.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:13:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:13:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:13:45] "GET /search?s=ыва HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:13:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:13:45] "[36mGET /static/local/fsdfsdf.jfif HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:13:45] "[36mGET /static/local/IdCXpP-7Ock.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:13:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:13:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:13:53] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:13:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:13:53] "[33mGET /static/local/скрин%20стола%20с%20прогами.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:13:53] "[36mGET /static/local/IdCXpP-7Ock.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:13:53] "[36mGET /static/local/fsdfsdf.jfif HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:13:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:13:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:13:56] "GET /GET/post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:13:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:13:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:13:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:13:58] "GET /GET/post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:13:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:14:02] "POST /POST/post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:14:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:14:02] "GET /static/local/IdCXpP-7Ock.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:14:03] "GET /GET/post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:14:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:14:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:14:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:15:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:15:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:15:38] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:15:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:15:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:15:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:15:48] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:15:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:15:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:15:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:15:50] "GET /GET/post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:15:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:16:06] "POST /POST/post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:16:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:16:06] "GET /static/local/IdCXpP-7Ock.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:16:09] "GET /GET/post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:16:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:17:22] "POST /POST/post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:17:22] "GET /static/local/maxresdefault.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:17:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:17:24] "GET /GET/post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:17:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:19:12] "POST /POST/post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:19:12] "GET /static/local/65383ff52504797985e638c80b1e7659.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:19:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:19:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:19:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:19:18] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:19:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:19:18] "[36mGET /static/local/IdCXpP-7Ock.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:19:18] "[36mGET /static/local/maxresdefault.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Mar/2022 14:19:18] "[36mGET /static/local/65383ff52504797985e638c80b1e7659.jpg HTTP/1.1[0m" 304 -
